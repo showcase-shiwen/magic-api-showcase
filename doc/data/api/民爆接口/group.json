@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "d26c14a3bf9d4000839e3e65c0b6aa91",
+  "name" : "民爆接口",
+  "type" : "api",
+  "parentId" : "0",
+  "path" : null,
+  "createTime" : 1669877070934,
+  "updateTime" : null,
+  "createBy" : null,
+  "updateBy" : null,
+  "paths" : [ ],
+  "options" : [ ]
+}

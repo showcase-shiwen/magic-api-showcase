@@ -1,0 +1,19 @@
+{
+  "properties" : { },
+  "id" : "5b4119f9d1cb4d4c809d1dac55caf6f7",
+  "script" : null,
+  "groupId" : "datasource:0",
+  "name" : "民爆数据库",
+  "createTime" : 1669877052009,
+  "updateTime" : null,
+  "lock" : null,
+  "createBy" : null,
+  "updateBy" : null,
+  "url" : "jdbc:mysql://192.168.11.91:32745/cup",
+  "username" : "root",
+  "password" : "tc123456",
+  "key" : "minbao_db",
+  "maxRows" : -1,
+  "driverClassName" : "com.mysql.cj.jdbc.Driver",
+  "type" : "com.zaxxer.hikari.HikariDataSource"
+}

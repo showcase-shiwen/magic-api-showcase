@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "b0d4acf209294ac7b8bf279041fe9ec1",
+  "name" : "通用测试",
+  "type" : "api",
+  "parentId" : "0",
+  "path" : null,
+  "createTime" : 1669876219268,
+  "updateTime" : null,
+  "createBy" : null,
+  "updateBy" : null,
+  "paths" : [ ],
+  "options" : [ ]
+}
